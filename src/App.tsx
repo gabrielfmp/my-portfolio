@@ -1,11 +1,10 @@
-import './App.css';
 import { Global } from './Global';
-import Header from './components/Header';
+import { Header } from './components/header';
 import React from 'react';
 
 const App = () => {
   return (
-    <div className="App">
+    <div>
       <Global />
 
       <Header />
