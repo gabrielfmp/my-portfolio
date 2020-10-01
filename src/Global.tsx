@@ -32,11 +32,11 @@ export const Global = () => (
 
       body {
         margin: 0;
-        min-height: 100vh;
+        background: rgb(204,204,204);
         font-family: -apple-system,'Helvetica Neue', BlinkMacSystemFont, 'Segoe UI', 'Roboto',
           'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', sans-serif;
         -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
+        -moz-osx-font-smoothing: grayscale; 
       }
 
       code {
