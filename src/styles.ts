@@ -30,3 +30,7 @@ export const Dot = styled.div`
 export const Wrapper = styled.div`
     display: flex;
 `;
+
+export const Experience = styled.div`
+    margin-left: 2.3rem;
+`;

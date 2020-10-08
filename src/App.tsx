@@ -1,4 +1,4 @@
-import { Dot, Education, Page, Title, Wrapper } from './styles';
+import { Dot, Education, Experience, Page, Title, Wrapper } from './styles';
 import { ExperienceCard } from './components/experience-card';
 import { Global } from './Global';
 import { Header } from './components/header';
@@ -30,6 +30,24 @@ const App = () => {
             ]}
           />
         </Education>
+        <Experience>
+          <Wrapper>
+            <Dot/>
+            <Title>Experience</Title>
+          </Wrapper>
+          <ExperienceCard
+            role="Frontend Engineer"
+            place="Farfetch"
+            startYear={2018}
+            description={[
+              'Learning from experienced developers',
+              'Creating a platform and enhancing developer experience', 
+              'Working remotely',
+              'Providing support to Harrods, Off-White and other e-commerce projects',
+              'Hosting events'
+            ]}
+          />
+        </Experience>
       </Page>
     </div>
   );
