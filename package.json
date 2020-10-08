@@ -37,6 +37,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://gabrielfmp.github.io/my-portfolio",
   "devDependencies": {
     "babel-plugin-macros": "^2.8.0",
     "eslint-plugin-sort-imports-es6-autofix": "^0.5.0",
