@@ -14,7 +14,7 @@ const App = () => {
 
         <Education>
           <Wrapper>
-            <Dot/>
+            <Dot />
             <Title>Education</Title>
           </Wrapper>
           <ExperienceCard
@@ -24,15 +24,15 @@ const App = () => {
             endYear={2018}
             description={[
               'Python, C++, Java, C, Assembly, Prolog and more',
-              'Databases in PostgreSQL', 
+              'Databases in PostgreSQL',
               'Design patterns',
-              'Algorithms and data structures'
+              'Algorithms and data structures',
             ]}
           />
         </Education>
         <Experience>
           <Wrapper>
-            <Dot/>
+            <Dot />
             <Title>Experience</Title>
           </Wrapper>
           <ExperienceCard
@@ -41,10 +41,10 @@ const App = () => {
             startYear={2018}
             description={[
               'Learning from experienced developers',
-              'Creating a platform and enhancing developer experience', 
+              'Creating a platform and enhancing developer experience',
               'Working remotely',
               'Providing support to Harrods, Off-White and other e-commerce projects',
-              'Hosting events'
+              'Hosting events',
             ]}
           />
         </Experience>
