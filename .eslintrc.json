@@ -1,13 +1,25 @@
 {
-  "extends": "react-app",
-  "plugins": ["sort-imports-es6-autofix"],
+  "extends": [
+    "react-app",
+    "plugin:prettier/recommended",
+    "prettier/react"
+  ],
+  "plugins": [
+    "sort-imports-es6-autofix",
+    "prettier"
+  ],
   "rules": {
     "sort-imports-es6-autofix/sort-imports-es6": [
       2,
       {
         "ignoreCase": false,
         "ignoreMemberSort": false,
-        "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
+        "memberSyntaxSortOrder": [
+          "none",
+          "all",
+          "multiple",
+          "single"
+        ]
       }
     ]
   }
