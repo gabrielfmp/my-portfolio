@@ -2,11 +2,12 @@ import { Dot, Education, Experience, Page, Title, Wrapper } from './styles';
 import { ExperienceCard } from './components/experience-card';
 import { Global } from './Global';
 import { Header } from './components/header';
+import { LilJoke } from './components/lil-joke';
 import React from 'react';
 
 const App = () => {
   return (
-    <div>
+    <>
       <Global />
 
       <Page>
@@ -46,10 +47,12 @@ const App = () => {
               'Providing support to Harrods, Off-White and other e-commerce projects',
               'Hosting events',
             ]}
+            noPaddingBottom
           />
         </Experience>
+        <LilJoke />
       </Page>
-    </div>
+    </>
   );
 };
 
