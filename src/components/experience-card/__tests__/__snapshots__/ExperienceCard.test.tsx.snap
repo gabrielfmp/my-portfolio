@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-19gtdza"
+  >
+    <p
+      class="css-11bj48"
+    >
+      foo
+    </p>
+    <div
+      class="css-14pnp1n"
+    >
+      <p
+        class="css-zkfum4"
+      >
+        bar
+      </p>
+      <div
+        class="css-15ag3i8"
+      />
+      <p
+        class="css-zkfum4"
+      >
+        2025 - Present
+      </p>
+    </div>
+    <ul
+      class="css-1rdmnzn"
+    >
+      <li
+        class="css-1g7zcol"
+      >
+        foo
+      </li>
+      <li
+        class="css-1g7zcol"
+      >
+        bar
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

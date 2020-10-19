@@ -1,0 +1,194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-59umzr"
+  >
+    <header
+      class="css-1wskg7y"
+    >
+      <p
+        class="css-1ooz59o"
+      >
+        Hi! I’m a frontend engineer driven by inovation and meaningful connections. I focus mainly on improving every user’s experience with simple yet effective code,
+        <s>
+          even though most of the time I’m solving bugs I created myself.
+        </s>
+      </p>
+      <h1
+        class="css-13fdacc"
+      >
+        Gabriel
+        <br />
+        Pires
+      </h1>
+    </header>
+    <div
+      class="css-1kja4n1"
+    >
+      <div
+        class="css-ov1ktg"
+      >
+        <div
+          class="css-yjn84j"
+        />
+        <h2
+          class="css-111mxsp"
+        >
+          Education
+        </h2>
+      </div>
+      <div
+        class="css-19gtdza"
+      >
+        <p
+          class="css-11bj48"
+        >
+          Computer Science and Engineering
+        </p>
+        <div
+          class="css-14pnp1n"
+        >
+          <p
+            class="css-zkfum4"
+          >
+            Instituto Superior Técnico
+          </p>
+          <div
+            class="css-15ag3i8"
+          />
+          <p
+            class="css-zkfum4"
+          >
+            2015 - 2018
+          </p>
+        </div>
+        <ul
+          class="css-1rdmnzn"
+        >
+          <li
+            class="css-1g7zcol"
+          >
+            Python, C++, Java, C, Assembly, Prolog and more
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Databases in PostgreSQL
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Design patterns
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Algorithms and data structures
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="css-dkta4x"
+    >
+      <div
+        class="css-ov1ktg"
+      >
+        <div
+          class="css-yjn84j"
+        />
+        <h2
+          class="css-111mxsp"
+        >
+          Experience
+        </h2>
+      </div>
+      <div
+        class="css-1rv6xqh"
+      >
+        <p
+          class="css-11bj48"
+        >
+          Frontend Engineer
+        </p>
+        <div
+          class="css-14pnp1n"
+        >
+          <p
+            class="css-zkfum4"
+          >
+            Farfetch
+          </p>
+          <div
+            class="css-15ag3i8"
+          />
+          <p
+            class="css-zkfum4"
+          >
+            2018 - Present
+          </p>
+        </div>
+        <ul
+          class="css-1rdmnzn"
+        >
+          <li
+            class="css-1g7zcol"
+          >
+            Learning from experienced developers
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Creating a platform and enhancing developer experience
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Working remotely
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Providing support to Harrods, Off-White and other e-commerce projects
+          </li>
+          <li
+            class="css-1g7zcol"
+          >
+            Hosting events
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="css-1flnoh4"
+    >
+      <div
+        class="css-1iyoj2o"
+      >
+        <div
+          class="css-1g6u7np"
+        />
+        <div
+          class="css-1g6u7np"
+        />
+        <div
+          class="css-1g6u7np"
+        />
+        <div
+          class="css-1g6u7np"
+        />
+        <div
+          class="css-1g6u7np"
+        />
+      </div>
+      <p
+        class="css-1jtsvsh"
+      >
+        Next? Your company maybe
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

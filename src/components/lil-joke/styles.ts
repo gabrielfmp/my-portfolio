@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 
-// Seriously thinking about changing this component name to LilJokeRapper
+// I'm this close 🤏 to rename this component LilJokeRapper
 export const LilJokeWrapper = styled.div`
   display: flex;
   margin-left: 2.7rem;
@@ -9,8 +9,6 @@ export const LilJokeWrapper = styled.div`
 export const DashedLine = styled.div`
   display: flex;
   flex-direction: column;
-  /* padding: 2.7rem 2.7rem 10rem 2.7rem;
-  background-color: #000; */
 `;
 
 export const Line = styled.div`
@@ -18,19 +16,19 @@ export const Line = styled.div`
   width: 0.1rem;
   background-color: #000;
 
-  &:nth-child(1) {
+  &:nth-of-type(1) {
     flex: 8;
   }
-  &:nth-child(2) {
+  &:nth-of-type(2) {
     flex: 4;
   }
-  &:nth-child(3) {
+  &:nth-of-type(3) {
     flex: 3;
   }
-  &:nth-child(4) {
+  &:nth-of-type(4) {
     flex: 2;
   }
-  &:nth-child(5) {
+  &:nth-of-type(5) {
     flex: 1;
   }
 `;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="css-1wskg7y"
+  >
+    <p
+      class="css-1ooz59o"
+    >
+      Hi! I’m a frontend engineer driven by inovation and meaningful connections. I focus mainly on improving every user’s experience with simple yet effective code,
+      <s>
+        even though most of the time I’m solving bugs I created myself.
+      </s>
+    </p>
+    <h1
+      class="css-13fdacc"
+    >
+      Gabriel
+      <br />
+      Pires
+    </h1>
+  </header>
+</DocumentFragment>
+`;
