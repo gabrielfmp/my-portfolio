@@ -12,11 +12,12 @@ import React from 'react';
 const ExperienceCard: React.FC<{
   description: Array<string>;
   endYear?: number;
+  noPaddingBottom?: boolean;
   place: string;
   role: string;
   startYear: number;
-}> = ({ description, endYear, startYear, place, role }) => (
-  <ExperienceCardWrapper>
+}> = ({ description, endYear, noPaddingBottom, startYear, place, role }) => (
+  <ExperienceCardWrapper noPaddingBottom={noPaddingBottom}>
     <Role>{role}</Role>
 
     <TimeAndPlaceWrapper>
