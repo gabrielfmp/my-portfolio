@@ -9,28 +9,22 @@ export const Page = styled.div`
   background: white;
 `;
 
-export const Title = styled.h2`
-  margin: 0;
-  font-size: 2rem;
-  text-transform: uppercase;
-`;
-
-export const Education = styled.div`
-  margin: 2.3rem 0 0 2.3rem;
-`;
-
 export const Dot = styled.div`
-  margin: auto 1rem auto 0;
+  margin: auto 1rem auto calc(-0.9rem / 2);
   border-radius: 50%;
   width: 0.9rem;
   height: 0.9rem;
   background-color: #000;
 `;
 
-export const Wrapper = styled.div`
+export const TitleWrapper = styled.div`
   display: flex;
 `;
 
-export const Experience = styled.div`
-  margin-left: 2.3rem;
+export const Content = styled.div`
+  margin: 2.3rem 2.7rem;
+`;
+
+export const SkillsWrapper = styled.div`
+  margin-top: 1rem;
 `;

@@ -5,7 +5,6 @@ type ExperienceCardWrapperType = {
 };
 
 export const ExperienceCardWrapper = styled.div<ExperienceCardWrapperType>`
-  margin-left: 0.4rem;
   border-left: 0.1rem solid #000;
   padding: ${({ noPaddingBottom }) =>
     noPaddingBottom ? '0.8rem 0 0 1.4rem' : '0.8rem 0 2.3rem 1.4rem'};

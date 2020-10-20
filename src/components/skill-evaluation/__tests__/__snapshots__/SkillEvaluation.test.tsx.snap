@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1tv79r0"
+  >
+    <p
+      class="css-1x26r7c"
+    >
+      foo
+    </p>
+    <div
+      class="css-1dpzy13"
+      color="#000"
+      data-testid="filled-dot"
+    />
+    <div
+      class="css-5uorsv"
+      color="#BCBCBC"
+      data-testid="empty-dot"
+    />
+  </div>
+</DocumentFragment>
+`;

@@ -7,9 +7,9 @@ import {
   ThinText,
   TimeAndPlaceWrapper,
 } from './styles';
-import React from 'react';
+import React, { FunctionComponent } from 'react';
 
-const ExperienceCard: React.FC<{
+const ExperienceCard: FunctionComponent<{
   description: Array<string>;
   endYear?: number;
   noPaddingBottom?: boolean;

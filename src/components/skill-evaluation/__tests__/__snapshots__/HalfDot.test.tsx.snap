@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-5uorsv"
+    color="#BCBCBC"
+    data-testid="half-dot"
+  >
+    <div
+      class="css-1qe1cwe"
+    />
+  </div>
+</DocumentFragment>
+`;
