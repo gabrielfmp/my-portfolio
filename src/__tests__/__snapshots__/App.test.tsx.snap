@@ -25,13 +25,13 @@ exports[`snapshot 1`] = `
       </h1>
     </header>
     <div
-      class="css-1kja4n1"
+      class="css-760yb3"
     >
       <div
         class="css-ov1ktg"
       >
         <div
-          class="css-yjn84j"
+          class="css-v5pni"
         />
         <h2
           class="css-111mxsp"
@@ -40,7 +40,7 @@ exports[`snapshot 1`] = `
         </h2>
       </div>
       <div
-        class="css-19gtdza"
+        class="css-sty4r9"
       >
         <p
           class="css-11bj48"
@@ -89,15 +89,11 @@ exports[`snapshot 1`] = `
           </li>
         </ul>
       </div>
-    </div>
-    <div
-      class="css-dkta4x"
-    >
       <div
         class="css-ov1ktg"
       >
         <div
-          class="css-yjn84j"
+          class="css-v5pni"
         />
         <h2
           class="css-111mxsp"
@@ -106,7 +102,7 @@ exports[`snapshot 1`] = `
         </h2>
       </div>
       <div
-        class="css-1rv6xqh"
+        class="css-15ycokd"
       >
         <p
           class="css-11bj48"
@@ -160,34 +156,221 @@ exports[`snapshot 1`] = `
           </li>
         </ul>
       </div>
-    </div>
-    <div
-      class="css-1flnoh4"
-    >
       <div
-        class="css-1iyoj2o"
+        class="css-1s6gzqy"
       >
         <div
-          class="css-1g6u7np"
-        />
-        <div
-          class="css-1g6u7np"
-        />
-        <div
-          class="css-1g6u7np"
-        />
-        <div
-          class="css-1g6u7np"
-        />
-        <div
-          class="css-1g6u7np"
-        />
+          class="css-1iyoj2o"
+        >
+          <div
+            class="css-1g6u7np"
+          />
+          <div
+            class="css-1g6u7np"
+          />
+          <div
+            class="css-1g6u7np"
+          />
+          <div
+            class="css-1g6u7np"
+          />
+          <div
+            class="css-1g6u7np"
+          />
+        </div>
+        <p
+          class="css-1jtsvsh"
+        >
+          Next? Your company maybe
+        </p>
       </div>
-      <p
-        class="css-1jtsvsh"
+      <h2
+        class="css-111mxsp"
       >
-        Next? Your company maybe
-      </p>
+        Skills
+      </h2>
+      <div
+        class="css-1b2x0kn"
+      >
+        <div
+          class="css-1tv79r0"
+        >
+          <p
+            class="css-1x26r7c"
+          >
+            Javascript
+          </p>
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+        </div>
+        <div
+          class="css-1tv79r0"
+        >
+          <p
+            class="css-1x26r7c"
+          >
+            HTML
+          </p>
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-5uorsv"
+            color="#BCBCBC"
+            data-testid="half-dot"
+          >
+            <div
+              class="css-1qe1cwe"
+            />
+          </div>
+          <div
+            class="css-5uorsv"
+            color="#BCBCBC"
+            data-testid="empty-dot"
+          />
+        </div>
+        <div
+          class="css-1tv79r0"
+        >
+          <p
+            class="css-1x26r7c"
+          >
+            CSS
+          </p>
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-5uorsv"
+            color="#BCBCBC"
+            data-testid="empty-dot"
+          />
+        </div>
+        <div
+          class="css-1tv79r0"
+        >
+          <p
+            class="css-1x26r7c"
+          >
+            React
+          </p>
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-5uorsv"
+            color="#BCBCBC"
+            data-testid="half-dot"
+          >
+            <div
+              class="css-1qe1cwe"
+            />
+          </div>
+        </div>
+        <div
+          class="css-1tv79r0"
+        >
+          <p
+            class="css-1x26r7c"
+          >
+            Redux
+          </p>
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+          <div
+            class="css-1dpzy13"
+            color="#000"
+            data-testid="filled-dot"
+          />
+        </div>
+      </div>
     </div>
   </div>
 </DocumentFragment>

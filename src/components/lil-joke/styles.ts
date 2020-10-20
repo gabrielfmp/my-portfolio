@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 // I'm this close 🤏 to rename this component LilJokeRapper
 export const LilJokeWrapper = styled.div`
   display: flex;
-  margin-left: 2.7rem;
+  margin-bottom: 2.6rem;
 `;
 
 export const DashedLine = styled.div`
