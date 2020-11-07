@@ -1,0 +1,123 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-g09kig"
+  >
+    <h2
+      class="css-2u4su"
+    >
+      About me
+    </h2>
+    <div
+      class="css-gqh2np"
+    >
+      <div
+        class="css-47j6j9"
+      >
+        <img
+          alt="email"
+          class="css-12k99am"
+          src="email.svg"
+        />
+      </div>
+      <div
+        class="css-un0t8r"
+      >
+        gabrielfmpires@gmail.com
+      </div>
+    </div>
+    <div
+      class="css-gqh2np"
+    >
+      <div
+        class="css-47j6j9"
+      >
+        <img
+          alt="phone number"
+          class="css-12k99am"
+          src="phone.svg"
+        />
+      </div>
+      <div
+        class="css-un0t8r"
+      >
+        +351 934429387
+      </div>
+    </div>
+    <div
+      class="css-gqh2np"
+    >
+      <div
+        class="css-47j6j9"
+      >
+        <img
+          alt="location"
+          class="css-12k99am"
+          src="location.svg"
+        />
+      </div>
+      <div
+        class="css-un0t8r"
+      >
+        Lisbon, Portugal
+      </div>
+    </div>
+    <div
+      class="css-gqh2np"
+    >
+      <div
+        class="css-47j6j9"
+      >
+        <img
+          alt="birthday"
+          class="css-12k99am"
+          src="cake.svg"
+        />
+      </div>
+      <div
+        class="css-un0t8r"
+      >
+        17 May 1997
+      </div>
+    </div>
+    <div
+      class="css-gqh2np"
+    >
+      <div
+        class="css-47j6j9"
+      >
+        <img
+          alt="github"
+          class="css-12k99am"
+          src="github.svg"
+        />
+      </div>
+      <div
+        class="css-un0t8r"
+      >
+        gabrielfmp
+      </div>
+    </div>
+    <div
+      class="css-gqh2np"
+    >
+      <div
+        class="css-47j6j9"
+      >
+        <img
+          alt="linkedin"
+          class="css-12k99am"
+          src="linkedin.svg"
+        />
+      </div>
+      <div
+        class="css-un0t8r"
+      >
+        gabrielfmpires
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-gqh2np"
+  >
+    <div
+      class="css-47j6j9"
+    >
+      <img
+        alt="MyContactIcon"
+        class="css-12k99am"
+        src="phone.svg"
+      />
+    </div>
+    <div
+      class="css-un0t8r"
+    >
+      Contact
+    </div>
+  </div>
+</DocumentFragment>
+`;

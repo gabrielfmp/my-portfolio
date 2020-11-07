@@ -30,159 +30,282 @@ exports[`snapshot 1`] = `
       <div
         class="css-ov1ktg"
       >
-        <div
-          class="css-v5pni"
-        />
-        <h2
-          class="css-111mxsp"
-        >
-          Education
-        </h2>
-      </div>
-      <div
-        class="css-sty4r9"
-      >
-        <p
-          class="css-11bj48"
-        >
-          Computer Science and Engineering
-        </p>
-        <div
-          class="css-14pnp1n"
-        >
-          <p
-            class="css-zkfum4"
-          >
-            Instituto Superior Técnico
-          </p>
+        <div>
           <div
-            class="css-15ag3i8"
-          />
-          <p
-            class="css-zkfum4"
+            class="css-ov1ktg"
           >
-            2015 - 2018
-          </p>
+            <div
+              class="css-v5pni"
+            />
+            <h2
+              class="css-111mxsp"
+            >
+              Education
+            </h2>
+          </div>
+          <div
+            class="css-sty4r9"
+          >
+            <p
+              class="css-11bj48"
+            >
+              Computer Science and Engineering
+            </p>
+            <div
+              class="css-14pnp1n"
+            >
+              <p
+                class="css-zkfum4"
+              >
+                Instituto Superior Técnico
+              </p>
+              <div
+                class="css-15ag3i8"
+              />
+              <p
+                class="css-zkfum4"
+              >
+                2015 - 2018
+              </p>
+            </div>
+            <ul
+              class="css-1rdmnzn"
+            >
+              <li
+                class="css-1g7zcol"
+              >
+                Python, C++, Java, C, Assembly, Prolog and more
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Databases in PostgreSQL
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Design patterns
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Algorithms and data structures
+              </li>
+            </ul>
+          </div>
+          <div
+            class="css-ov1ktg"
+          >
+            <div
+              class="css-v5pni"
+            />
+            <h2
+              class="css-111mxsp"
+            >
+              Experience
+            </h2>
+          </div>
+          <div
+            class="css-15ycokd"
+          >
+            <p
+              class="css-11bj48"
+            >
+              Frontend Engineer
+            </p>
+            <div
+              class="css-14pnp1n"
+            >
+              <p
+                class="css-zkfum4"
+              >
+                Farfetch
+              </p>
+              <div
+                class="css-15ag3i8"
+              />
+              <p
+                class="css-zkfum4"
+              >
+                2018 - Present
+              </p>
+            </div>
+            <ul
+              class="css-1rdmnzn"
+            >
+              <li
+                class="css-1g7zcol"
+              >
+                Learning from experienced developers
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Creating a platform and enhancing developer experience
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Working remotely
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Providing support to Harrods, Off-White and other e-commerce projects
+              </li>
+              <li
+                class="css-1g7zcol"
+              >
+                Hosting events
+              </li>
+            </ul>
+          </div>
+          <div
+            class="css-1s6gzqy"
+          >
+            <div
+              class="css-1iyoj2o"
+            >
+              <div
+                class="css-1g6u7np"
+              />
+              <div
+                class="css-1g6u7np"
+              />
+              <div
+                class="css-1g6u7np"
+              />
+              <div
+                class="css-1g6u7np"
+              />
+              <div
+                class="css-1g6u7np"
+              />
+            </div>
+            <p
+              class="css-1jtsvsh"
+            >
+              Next? Your company maybe
+            </p>
+          </div>
         </div>
-        <ul
-          class="css-1rdmnzn"
-        >
-          <li
-            class="css-1g7zcol"
-          >
-            Python, C++, Java, C, Assembly, Prolog and more
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Databases in PostgreSQL
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Design patterns
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Algorithms and data structures
-          </li>
-        </ul>
-      </div>
-      <div
-        class="css-ov1ktg"
-      >
         <div
-          class="css-v5pni"
-        />
-        <h2
-          class="css-111mxsp"
+          class="css-g09kig"
         >
-          Experience
-        </h2>
-      </div>
-      <div
-        class="css-15ycokd"
-      >
-        <p
-          class="css-11bj48"
-        >
-          Frontend Engineer
-        </p>
-        <div
-          class="css-14pnp1n"
-        >
-          <p
-            class="css-zkfum4"
+          <h2
+            class="css-2u4su"
           >
-            Farfetch
-          </p>
+            About me
+          </h2>
           <div
-            class="css-15ag3i8"
-          />
-          <p
-            class="css-zkfum4"
+            class="css-gqh2np"
           >
-            2018 - Present
-          </p>
+            <div
+              class="css-47j6j9"
+            >
+              <img
+                alt="email"
+                class="css-12k99am"
+                src="email.svg"
+              />
+            </div>
+            <div
+              class="css-un0t8r"
+            >
+              gabrielfmpires@gmail.com
+            </div>
+          </div>
+          <div
+            class="css-gqh2np"
+          >
+            <div
+              class="css-47j6j9"
+            >
+              <img
+                alt="phone number"
+                class="css-12k99am"
+                src="phone.svg"
+              />
+            </div>
+            <div
+              class="css-un0t8r"
+            >
+              +351 934429387
+            </div>
+          </div>
+          <div
+            class="css-gqh2np"
+          >
+            <div
+              class="css-47j6j9"
+            >
+              <img
+                alt="location"
+                class="css-12k99am"
+                src="location.svg"
+              />
+            </div>
+            <div
+              class="css-un0t8r"
+            >
+              Lisbon, Portugal
+            </div>
+          </div>
+          <div
+            class="css-gqh2np"
+          >
+            <div
+              class="css-47j6j9"
+            >
+              <img
+                alt="birthday"
+                class="css-12k99am"
+                src="cake.svg"
+              />
+            </div>
+            <div
+              class="css-un0t8r"
+            >
+              17 May 1997
+            </div>
+          </div>
+          <div
+            class="css-gqh2np"
+          >
+            <div
+              class="css-47j6j9"
+            >
+              <img
+                alt="github"
+                class="css-12k99am"
+                src="github.svg"
+              />
+            </div>
+            <div
+              class="css-un0t8r"
+            >
+              gabrielfmp
+            </div>
+          </div>
+          <div
+            class="css-gqh2np"
+          >
+            <div
+              class="css-47j6j9"
+            >
+              <img
+                alt="linkedin"
+                class="css-12k99am"
+                src="linkedin.svg"
+              />
+            </div>
+            <div
+              class="css-un0t8r"
+            >
+              gabrielfmpires
+            </div>
+          </div>
         </div>
-        <ul
-          class="css-1rdmnzn"
-        >
-          <li
-            class="css-1g7zcol"
-          >
-            Learning from experienced developers
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Creating a platform and enhancing developer experience
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Working remotely
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Providing support to Harrods, Off-White and other e-commerce projects
-          </li>
-          <li
-            class="css-1g7zcol"
-          >
-            Hosting events
-          </li>
-        </ul>
-      </div>
-      <div
-        class="css-1s6gzqy"
-      >
-        <div
-          class="css-1iyoj2o"
-        >
-          <div
-            class="css-1g6u7np"
-          />
-          <div
-            class="css-1g6u7np"
-          />
-          <div
-            class="css-1g6u7np"
-          />
-          <div
-            class="css-1g6u7np"
-          />
-          <div
-            class="css-1g6u7np"
-          />
-        </div>
-        <p
-          class="css-1jtsvsh"
-        >
-          Next? Your company maybe
-        </p>
       </div>
       <h2
         class="css-111mxsp"

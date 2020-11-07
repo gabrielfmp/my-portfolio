@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-ov1ktg"
+  >
+    <div
+      class="css-v5pni"
+    />
+    <h2
+      class="css-111mxsp"
+    >
+      eu dou à música o que ela me dá
+    </h2>
+  </div>
+</DocumentFragment>
+`;
