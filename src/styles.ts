@@ -9,22 +9,14 @@ export const Page = styled.div`
   background: white;
 `;
 
-export const Dot = styled.div`
-  margin: auto 1rem auto calc(-0.9rem / 2);
-  border-radius: 50%;
-  width: 0.9rem;
-  height: 0.9rem;
-  background-color: #000;
-`;
-
-export const TitleWrapper = styled.div`
-  display: flex;
-`;
-
 export const Content = styled.div`
   margin: 2.3rem 2.7rem;
 `;
 
 export const SkillsWrapper = styled.div`
   margin-top: 1rem;
+`;
+
+export const Block = styled.div`
+  display: flex;
 `;
