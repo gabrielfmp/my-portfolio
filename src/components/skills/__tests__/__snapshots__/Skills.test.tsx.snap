@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1vymck9"
+  >
+    <div
+      class="css-o7xbd4"
+    >
+      <div
+        class="css-1sulisw"
+      >
+        <p
+          class="css-1yo0kyw"
+        >
+          Critical Thinking
+        </p>
+        <p
+          class="css-1yo0kyw"
+        >
+          Will to learn
+        </p>
+      </div>
+      <div
+        class="css-1sulisw"
+      >
+        <p
+          class="css-1yo0kyw"
+        >
+          English
+        </p>
+        <p
+          class="css-1yo0kyw"
+        >
+          Portuguese (native)
+        </p>
+        <p
+          class="css-1yo0kyw"
+        >
+          Spanish
+        </p>
+      </div>
+      <div
+        class="css-1sulisw"
+      >
+        <p
+          class="css-1yo0kyw"
+        >
+          Communication
+        </p>
+        <p
+          class="css-1yo0kyw"
+        >
+          Self-improvement
+        </p>
+      </div>
+      <div
+        class="css-1sulisw"
+      >
+        <p
+          class="css-1yo0kyw"
+        >
+          Creativity
+        </p>
+        <p
+          class="css-1yo0kyw"
+        >
+          Organization
+        </p>
+        <p
+          class="css-1yo0kyw"
+        >
+          Teamwork
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

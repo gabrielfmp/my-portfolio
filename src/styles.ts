@@ -13,10 +13,18 @@ export const Content = styled.div`
   margin: 2.3rem 2.7rem;
 `;
 
-export const SkillsWrapper = styled.div`
+export const SkillsEvaluationWrapper = styled.div`
   margin-top: 1rem;
 `;
 
-export const Block = styled.div`
+export const SkillsWrapper = styled.div`
+  flex: 1;
+`;
+
+export const HorizontalBlock = styled.div`
   display: flex;
+
+  :not(:first-of-type) {
+    margin-top: 3rem;
+  }
 `;

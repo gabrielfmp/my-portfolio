@@ -1,11 +1,12 @@
 import { ExperienceCard } from './experience-card';
 import { ExperienceTitle } from './experience-title';
+import { ExperienceWrapper } from './styles';
 import { LilJoke } from './lil-joke';
 import React from 'react';
 
 const Experience = () => {
   return (
-    <div>
+    <ExperienceWrapper>
       <ExperienceTitle title="Education" />
       <ExperienceCard
         role="Computer Science and Engineering"
@@ -36,7 +37,7 @@ const Experience = () => {
       />
 
       <LilJoke />
-    </div>
+    </ExperienceWrapper>
   );
 };
 
