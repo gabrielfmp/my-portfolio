@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/my-portfolio/static/js/main.e7b4ba81.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.e7b4ba81.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8b00eace.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8b00eace.js.map",
+    "static/js/2.a40f8425.chunk.js": "/my-portfolio/static/js/2.a40f8425.chunk.js",
+    "static/js/2.a40f8425.chunk.js.map": "/my-portfolio/static/js/2.a40f8425.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.b27142a28f81568917445e32a1b0ec62.js": "/my-portfolio/precache-manifest.b27142a28f81568917445e32a1b0ec62.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/js/2.a40f8425.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.a40f8425.chunk.js.LICENSE.txt",
+    "static/media/cake.svg": "/my-portfolio/static/media/cake.2f8c6e07.svg",
+    "static/media/email.svg": "/my-portfolio/static/media/email.b12f7240.svg",
+    "static/media/github.svg": "/my-portfolio/static/media/github.a911c863.svg",
+    "static/media/linkedin.svg": "/my-portfolio/static/media/linkedin.856ef867.svg",
+    "static/media/location.svg": "/my-portfolio/static/media/location.63dd9f35.svg",
+    "static/media/phone.svg": "/my-portfolio/static/media/phone.83afdfbc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b00eace.js",
+    "static/js/2.a40f8425.chunk.js",
+    "static/js/main.e7b4ba81.chunk.js"
+  ]
+}
