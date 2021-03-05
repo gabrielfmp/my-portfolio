@@ -23,8 +23,9 @@ export const SkillsWrapper = styled.div`
 
 export const HorizontalBlock = styled.div`
   display: flex;
+  margin-top: 6rem;
 
   :not(:first-of-type) {
-    margin-top: 3rem;
+    margin-top: 7rem;
   }
 `;
